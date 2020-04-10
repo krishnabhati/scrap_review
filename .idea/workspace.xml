@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b4a90676-1079-4ab1-876b-c4ddc1d013a3" name="Default Changelist" comment="Revert &quot;Revert &quot;new project upload&quot;&quot;&#10;&#10;This reverts commit 36d40175" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1a8EPRv4KAHJttqBu76g5khUSuH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TODO_SCOPE" value="All Places" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python">
+      <module name="heroku flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\sam\Anaconda3\envs\heroku_flask1\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b4a90676-1079-4ab1-876b-c4ddc1d013a3" name="Default Changelist" comment="" />
+      <created>1586108804896</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586108804896</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Revert &quot;new project upload&quot;&#10;&#10;This reverts commit 771be48d">
+      <created>1586402324390</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586402324390</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Revert &quot;Revert &quot;new project upload&quot;&quot;&#10;&#10;This reverts commit 36d4017563c6573ffbcafefaa982c8727b328971.">
+      <created>1586487631223</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1586487631223</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Revert &quot;Revert &quot;new project upload&quot;&quot;&#10;&#10;This reverts commit 36d40175">
+      <created>1586487722282</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1586487722282</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Revert &quot;new project upload&quot;&#10;&#10;This reverts commit 771be48d" />
+    <MESSAGE value="Revert &quot;Revert &quot;new project upload&quot;&quot;&#10;&#10;This reverts commit 36d4017563c6573ffbcafefaa982c8727b328971." />
+    <MESSAGE value="Revert &quot;Revert &quot;new project upload&quot;&quot;&#10;&#10;This reverts commit 36d40175" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;Revert &quot;new project upload&quot;&quot;&#10;&#10;This reverts commit 36d40175" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586401809737">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="22" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1586401809737" />
+    <state x="444" y="174" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1586142115071">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="444" y="174" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1586142115071" />
+    <state x="320" y="0" key="CommitChangelistDialog2" timestamp="1586487804233">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="320" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1586487804233" />
+    <state x="138" y="55" width="1092" height="610" key="DiffContextDialog" timestamp="1586487877818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="138" y="55" width="1092" height="610" key="DiffContextDialog/0.0.1366.728@0.0.1366.728" timestamp="1586487877818" />
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom" timestamp="1586403720134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1586403720134" />
+    <state width="1345" height="179" key="GridCell.Tab.0.center" timestamp="1586403720133">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1586403720133" />
+    <state width="1345" height="179" key="GridCell.Tab.0.left" timestamp="1586403720125">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1586403720125" />
+    <state width="1345" height="179" key="GridCell.Tab.0.right" timestamp="1586403720134">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1345" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1586403720134" />
+    <state x="499" y="89" key="RollbackChangesDialog" timestamp="1586487824923">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="89" key="RollbackChangesDialog/0.0.1366.728@0.0.1366.728" timestamp="1586487824923" />
+    <state x="186" y="10" key="SettingsEditor" timestamp="1586494612272">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="10" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586494612272" />
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2" timestamp="1586487640019">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="100" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1586487640019" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1586494737541">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1586494737541" />
+  </component>
+</project>
